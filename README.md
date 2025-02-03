@@ -13,4 +13,4 @@ Otra solución es la <strong>implementación de una API REST</strong> esto permi
 La solución se desarrollará en Laravel, asegurando una implementación robusta y escalable. <br>
 
 ## 2. Modelo E-R
-![modelo e-r](/descargas/1234.png)
+![modelo e-r](1234.png)
